@@ -9,7 +9,7 @@
 * [Arpit Ribadiya](ribadiyaarpit1240@gmail.com)
 
 # Description
-* Introducing "MakeItEasy": A sophisticated Order and Delivery Management System designed to streamline your online food ordering experience. With MakeItEasy, customers can effortlessly place orders for their favorite dishes with just a few clicks, all from the comfort of their own device.
+* "MakeItEasy": A sophisticated Order and Delivery Management System designed to streamline your online food ordering experience. With MakeItEasy, customers can effortlessly place orders for their favorite dishes with just a few clicks, all from the comfort of their own device.
 
 * Our platform provides a seamless interface for users to browse through a wide array of menu options, select their desired items, and submit their orders efficiently. What sets MakeItEasy apart is its intuitive design, making the ordering process not only easy but also enjoyable.
 
